@@ -1,4 +1,4 @@
-
+// them chu thich o day
 function isLeapYear (year) {
     if (year % 4 == 0 && year < 1918) {
         return true;
